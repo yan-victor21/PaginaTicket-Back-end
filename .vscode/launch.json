@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelpDeskApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.yanvictor.HelpDesk.HelpDeskApplication",
+            "args": "",
+            "projectName": "HelpDesk"
+        }
+    ]
+}
